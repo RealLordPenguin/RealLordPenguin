@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Languages I'm Learning](https://skillicons.dev/icons?i=html,css,python](https://skillicons.dev)
 
 <!--
 **RealLordPenguin/RealLordPenguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
